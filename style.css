@@ -1,0 +1,143 @@
+:root {
+    --bg-color: #f0f2f5;
+    --card-bg: #ffffff;
+    --text-color: #333;
+    --contexto-purple: #8e44ad;
+    --wordle-green: #6aaa64;
+    --winnie-color: #e91e63;
+    --darren-color: #2196f3;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    width: 100%;
+    max-width: 600px;
+}
+
+/* Tab Navigation Styles */
+.tab-container {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.tab-btn {
+    flex: 1;
+    padding: 12px;
+    border: none;
+    border-radius: 12px;
+    font-size: 1em;
+    font-weight: bold;
+    cursor: pointer;
+    background-color: #ddd;
+    color: #666;
+    transition: all 0.2s ease;
+}
+
+/* Active State for Contexto Tab */
+#btn-contexto.active {
+    background-color: var(--contexto-purple);
+    color: white;
+}
+
+/* Active State for Wordle Tab */
+#btn-wordle.active {
+    background-color: var(--wordle-green);
+    color: white;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.contexto-title { margin: 0; color: var(--contexto-purple); }
+.wordle-title { margin: 0; color: var(--wordle-green); }
+
+p.subtitle {
+    color: #666;
+    margin-top: 5px;
+}
+
+/* Scoreboard Section */
+.scoreboard {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    gap: 10px;
+}
+
+.score-card {
+    background: var(--card-bg);
+    flex: 1;
+    padding: 15px;
+    border-radius: 12px;
+    text-align: center;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+.darren-score { border-bottom: 4px solid var(--darren-color); }
+.winnie-score { border-bottom: 4px solid var(--winnie-color); }
+
+.score-count {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+/* History Table Section */
+.history-card {
+    background: var(--card-bg);
+    border-radius: 12px;
+    padding: 20px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+    overflow-x: auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th {
+    text-align: left;
+    padding: 10px;
+    border-bottom: 2px solid #eee;
+    color: #888;
+    font-size: 0.9em;
+    text-transform: uppercase;
+}
+
+td {
+    padding: 15px 10px;
+    border-bottom: 1px solid #eee;
+}
+
+tr:last-child td { border-bottom: none; }
+
+.winner-winnie { color: var(--winnie-color); font-weight: bold; }
+.winner-darren { color: var(--darren-color); font-weight: bold; }
+
+.guesses {
+    background-color: #eee;
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-size: 0.9em;
+}
+
+footer {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 0.8em;
+    color: #999;
+}
