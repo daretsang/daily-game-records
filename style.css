@@ -6,6 +6,7 @@
     --wordle-green: #6aaa64;
     --winnie-color: #e91e63;
     --darren-color: #2196f3;
+    --tie-color: #f59e0b;
 }
 
 body {
@@ -87,6 +88,7 @@ p.subtitle {
 
 .darren-score { border-bottom: 4px solid var(--darren-color); }
 .winnie-score { border-bottom: 4px solid var(--winnie-color); }
+.tie-score { border-bottom: 4px solid var(--tie-color); }
 
 .score-count {
     display: block;
@@ -127,12 +129,21 @@ tr:last-child td { border-bottom: none; }
 
 .winner-winnie { color: var(--winnie-color); font-weight: bold; }
 .winner-darren { color: var(--darren-color); font-weight: bold; }
+.winner-tie { color: var(--tie-color); font-weight: bold; }
 
 .guesses {
     background-color: #eee;
     padding: 4px 8px;
     border-radius: 4px;
     font-size: 0.9em;
+}
+
+/* Win Rate Percentage Text */
+.win-rate {
+    font-size: 0.8rem;
+    margin-top: 5px;
+    opacity: 0.8;
+    font-weight: normal;
 }
 
 footer {
