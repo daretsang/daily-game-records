@@ -1,5 +1,5 @@
 # daily-game-records
-Record of daily browser games against the love of my life Winnie.
+Record of daily browser games against the love of my life, Winnie.
 <br>
 Currently tracking contexto and wordle.
 <br>
