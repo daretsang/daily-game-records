@@ -1,0 +1,647 @@
+[
+  {
+    "date": "2026-08-04",
+    "winner": "Tie",
+    "guesses": 4
+  },
+  {
+    "date": "2026-08-22",
+    "winner": "Darren",
+    "guesses": 3
+  },
+  {
+    "date": "2026-08-18",
+    "winner": "Darren",
+    "guesses": 3
+  },
+  {
+    "date": "2026-08-11",
+    "winner": "Winnie",
+    "guesses": 5
+  },
+  {
+    "date": "2026-08-04",
+    "winner": "Tie",
+    "guesses": 3
+  },
+  {
+    "date": "2026-07-31",
+    "winner": "Darren",
+    "guesses": 3
+  },
+  {
+    "date": "2026-07-30",
+    "winner": "Tie",
+    "guesses": 3
+  },
+  {
+    "date": "2026-07-21",
+    "winner": "Tie",
+    "guesses": 4
+  },
+  {
+    "date": "2026-07-20",
+    "winner": "Darren",
+    "guesses": 4
+  },
+  {
+    "date": "2026-07-19",
+    "winner": "Tie",
+    "guesses": 3
+  },
+  {
+    "date": "2026-07-14",
+    "winner": "Tie",
+    "guesses": 4
+  },
+  {
+    "date": "2026-07-13",
+    "winner": "Tie",
+    "guesses": 4
+  },
+  {
+    "date": "2026-07-12",
+    "winner": "Darren",
+    "guesses": 5
+  },
+  {
+    "date": "2026-07-10",
+    "winner": "Tie",
+    "guesses": 4
+  },
+  {
+    "date": "2026-07-08",
+    "winner": "Darren",
+    "guesses": 3
+  },
+  {
+    "date": "2026-07-07",
+    "winner": "Darren",
+    "guesses": 4
+  },
+  {
+    "date": "2026-07-06",
+    "winner": "Tie",
+    "guesses": 4
+  },
+  {
+    "date": "2026-07-05",
+    "winner": "Tie",
+    "guesses": 4
+  },
+  {
+    "date": "2026-07-03",
+    "winner": "Winnie",
+    "guesses": 4
+  },
+  {
+    "date": "2026-07-02",
+    "winner": "Winnie",
+    "guesses": 3
+  },
+  {
+    "date": "2026-06-29",
+    "winner": "Tie",
+    "guesses": 4
+  },
+  {
+    "date": "2026-06-28",
+    "winner": "Darren",
+    "guesses": 4
+  },
+  {
+    "date": "2026-06-27",
+    "winner": "Tie",
+    "guesses": 3
+  },
+  {
+    "date": "2026-06-26",
+    "winner": "Darren",
+    "guesses": 3
+  },
+  {
+    "date": "2026-06-25",
+    "winner": "Tie",
+    "guesses": 3
+  },
+  {
+    "date": "2026-06-23",
+    "winner": "Winnie",
+    "guesses": 4
+  },
+  {
+    "date": "2026-06-18",
+    "winner": "Darren",
+    "guesses": 3
+  },
+  {
+    "date": "2026-06-14",
+    "winner": "Tie",
+    "guesses": 4
+  },
+  {
+    "date": "2026-06-11",
+    "winner": "Darren",
+    "guesses": 4
+  },
+  {
+    "date": "2026-06-09",
+    "winner": "Tie",
+    "guesses": 4
+  },
+  {
+    "date": "2026-06-08",
+    "winner": "Tie",
+    "guesses": 3
+  },
+  {
+    "date": "2026-06-05",
+    "winner": "Tie",
+    "guesses": 6
+  },
+  {
+    "date": "2026-06-04",
+    "winner": "Tie",
+    "guesses": 3
+  },
+  {
+    "date": "2026-06-01",
+    "winner": "Tie",
+    "guesses": 5
+  },
+  {
+    "date": "2026-05-31",
+    "winner": "Darren",
+    "guesses": 4
+  },
+  {
+    "date": "2026-05-25",
+    "winner": "Darren",
+    "guesses": 4
+  },
+  {
+    "date": "2026-05-24",
+    "winner": "Winnie",
+    "guesses": 3
+  },
+  {
+    "date": "2026-05-23",
+    "winner": "Tie",
+    "guesses": 4
+  },
+  {
+    "date": "2026-05-20",
+    "winner": "Tie",
+    "guesses": 4
+  },
+  {
+    "date": "2026-05-19",
+    "winner": "Tie",
+    "guesses": 4
+  },
+  {
+    "date": "2026-05-18",
+    "winner": "Darren",
+    "guesses": 3
+  },
+  {
+    "date": "2026-05-15",
+    "winner": "Darren",
+    "guesses": 5
+  },
+  {
+    "date": "2026-05-11",
+    "winner": "Tie",
+    "guesses": 6
+  },
+  {
+    "date": "2026-05-10",
+    "winner": "Darren",
+    "guesses": 5
+  },
+  {
+    "date": "2026-05-09",
+    "winner": "Tie",
+    "guesses": 3
+  },
+  {
+    "date": "2026-05-07",
+    "winner": "Tie",
+    "guesses": 4
+  },
+  {
+    "date": "2026-04-27",
+    "winner": "Tie",
+    "guesses": 4
+  },
+  {
+    "date": "2026-04-23",
+    "winner": "Winnie",
+    "guesses": 5
+  },
+  {
+    "date": "2026-04-19",
+    "winner": "Darren",
+    "guesses": 4
+  },
+  {
+    "date": "2026-04-05",
+    "winner": "Darren",
+    "guesses": 4
+  },
+  {
+    "date": "2026-04-04",
+    "winner": "Winnie",
+    "guesses": 2
+  },
+  {
+    "date": "2026-04-02",
+    "winner": "Tie",
+    "guesses": 6
+  },
+  {
+    "date": "2026-04-01",
+    "winner": "Tie",
+    "guesses": 6
+  },
+  {
+    "date": "2026-03-31",
+    "winner": "Tie",
+    "guesses": 5
+  },
+  {
+    "date": "2026-03-30",
+    "winner": "Darren",
+    "guesses": 4
+  },
+  {
+    "date": "2026-03-29",
+    "winner": "Tie",
+    "guesses": 4
+  },
+  {
+    "date": "2026-03-27",
+    "winner": "Tie",
+    "guesses": 4
+  },
+  {
+    "date": "2026-03-26",
+    "winner": "Darren",
+    "guesses": 4
+  },
+  {
+    "date": "2026-03-25",
+    "winner": "Darren",
+    "guesses": 4
+  },
+  {
+    "date": "2026-03-24",
+    "winner": "Darren",
+    "guesses": 4
+  },
+  {
+    "date": "2026-03-23",
+    "winner": "Tie",
+    "guesses": 3
+  },
+  {
+    "date": "2026-03-22",
+    "winner": "Tie",
+    "guesses": 4
+  },
+  {
+    "date": "2026-03-21",
+    "winner": "Tie",
+    "guesses": 4
+  },
+  {
+    "date": "2026-03-20",
+    "winner": "Darren",
+    "guesses": 6
+  },
+  {
+    "date": "2026-03-19",
+    "winner": "Darren",
+    "guesses": 4
+  },
+  {
+    "date": "2026-03-16",
+    "winner": "Tie",
+    "guesses": 4
+  },
+  {
+    "date": "2026-03-15",
+    "winner": "Darren",
+    "guesses": 4
+  },
+  {
+    "date": "2026-03-14",
+    "winner": "Darren",
+    "guesses": 2
+  },
+  {
+    "date": "2026-03-13",
+    "winner": "Tie",
+    "guesses": 5
+  },
+  {
+    "date": "2026-03-12",
+    "winner": "Tie",
+    "guesses": 4
+  },
+  {
+    "date": "2026-03-11",
+    "winner": "Tie",
+    "guesses": 3
+  },
+  {
+    "date": "2026-03-10",
+    "winner": "Darren",
+    "guesses": 5
+  },
+  {
+    "date": "2026-03-09",
+    "winner": "Tie",
+    "guesses": 4
+  },
+  {
+    "date": "2026-03-08",
+    "winner": "Winnie",
+    "guesses": 4
+  },
+  {
+    "date": "2026-03-07",
+    "winner": "Tie",
+    "guesses": 5
+  },
+  {
+    "date": "2026-03-02",
+    "winner": "Tie",
+    "guesses": 5
+  },
+  {
+    "date": "2026-03-02",
+    "winner": "Tie",
+    "guesses": 2
+  },
+  {
+    "date": "2026-02-18",
+    "winner": "Tie",
+    "guesses": 3
+  },
+  {
+    "date": "2026-02-10",
+    "winner": "Darren",
+    "guesses": 3
+  },
+  {
+    "date": "2026-02-09",
+    "winner": "Tie",
+    "guesses": 5
+  },
+  {
+    "date": "2026-02-08",
+    "winner": "Tie",
+    "guesses": 5
+  },
+  {
+    "date": "2026-02-07",
+    "winner": "Darren",
+    "guesses": 5
+  },
+  {
+    "date": "2026-02-04",
+    "winner": "Darren",
+    "guesses": 4
+  },
+  {
+    "date": "2026-02-03",
+    "winner": "Darren",
+    "guesses": 2
+  },
+  {
+    "date": "2026-02-02",
+    "winner": "Tie",
+    "guesses": 3
+  },
+  {
+    "date": "2026-02-01",
+    "winner": "Darren",
+    "guesses": 5
+  },
+  {
+    "date": "2026-01-31",
+    "winner": "Darren",
+    "guesses": 3
+  },
+  {
+    "date": "2026-01-30",
+    "winner": "Tie",
+    "guesses": 5
+  },
+  {
+    "date": "2026-01-29",
+    "winner": "Winnie",
+    "guesses": 3
+  },
+  {
+    "date": "2026-01-27",
+    "winner": "Darren",
+    "guesses": 4
+  },
+  {
+    "date": "2026-01-26",
+    "winner": "Tie",
+    "guesses": 5
+  },
+  {
+    "date": "2026-01-24",
+    "winner": "Tie",
+    "guesses": 5
+  },
+  {
+    "date": "2026-01-20",
+    "winner": "Darren",
+    "guesses": 4
+  },
+  {
+    "date": "2026-01-19",
+    "winner": "Tie",
+    "guesses": 6
+  },
+  {
+    "date": "2026-01-18",
+    "winner": "Darren",
+    "guesses": 4
+  },
+  {
+    "date": "2026-01-17",
+    "winner": "Darren",
+    "guesses": 3
+  },
+  {
+    "date": "2026-01-13",
+    "winner": "Winnie",
+    "guesses": 5
+  },
+  {
+    "date": "2026-01-10",
+    "winner": "Darren",
+    "guesses": 3
+  },
+  {
+    "date": "2026-01-08",
+    "winner": "Tie",
+    "guesses": 4
+  },
+  {
+    "date": "2026-01-07",
+    "winner": "Winnie",
+    "guesses": 3
+  },
+  {
+    "date": "2026-01-06",
+    "winner": "Darren",
+    "guesses": 4
+  },
+  {
+    "date": "2026-01-05",
+    "winner": "Tie",
+    "guesses": 7
+  },
+  {
+    "date": "2026-01-04",
+    "winner": "Tie",
+    "guesses": 4
+  },
+  {
+    "date": "2026-01-02",
+    "winner": "Winnie",
+    "guesses": 5
+  },
+  {
+    "date": "2026-01-01",
+    "winner": "Darren",
+    "guesses": 3
+  },
+  {
+    "date": "2025-12-31",
+    "winner": "Tie",
+    "guesses": 3
+  },
+  {
+    "date": "2025-12-29",
+    "winner": "Tie",
+    "guesses": 3
+  },
+  {
+    "date": "2025-12-28",
+    "winner": "Tie",
+    "guesses": 4
+  },
+  {
+    "date": "2025-12-27",
+    "winner": "Darren",
+    "guesses": 4
+  },
+  {
+    "date": "2025-12-26",
+    "winner": "Darren",
+    "guesses": 4
+  },
+  {
+    "date": "2025-12-25",
+    "winner": "Tie",
+    "guesses": 3
+  },
+  {
+    "date": "2025-12-24",
+    "winner": "Darren",
+    "guesses": 3
+  },
+  {
+    "date": "2025-12-23",
+    "winner": "Winnie",
+    "guesses": 3
+  },
+  {
+    "date": "2025-12-22",
+    "winner": "Tie",
+    "guesses": 5
+  },
+  {
+    "date": "2025-12-21",
+    "winner": "Darren",
+    "guesses": 4
+  },
+  {
+    "date": "2025-12-20",
+    "winner": "Darren",
+    "guesses": 3
+  },
+  {
+    "date": "2025-12-19",
+    "winner": "Winnie",
+    "guesses": 4
+  },
+  {
+    "date": "2025-12-18",
+    "winner": "Winnie",
+    "guesses": 4
+  },
+  {
+    "date": "2025-12-16",
+    "winner": "Darren",
+    "guesses": 4
+  },
+  {
+    "date": "2025-12-15",
+    "winner": "Tie",
+    "guesses": 6
+  },
+  {
+    "date": "2025-12-14",
+    "winner": "Winnie",
+    "guesses": 4
+  },
+  {
+    "date": "2025-12-13",
+    "winner": "Darren",
+    "guesses": 3
+  },
+  {
+    "date": "2025-12-12",
+    "winner": "Winnie",
+    "guesses": 4
+  },
+  {
+    "date": "2025-12-11",
+    "winner": "Winnie",
+    "guesses": 3
+  },
+  {
+    "date": "2025-12-10",
+    "winner": "Tie",
+    "guesses": 3
+  },
+  {
+    "date": "2025-12-09",
+    "winner": "Darren",
+    "guesses": 3
+  },
+  {
+    "date": "2025-12-08",
+    "winner": "Darren",
+    "guesses": 3
+  },
+  {
+    "date": "2025-12-07",
+    "winner": "Tie",
+    "guesses": 5
+  },
+  {
+    "date": "2025-12-06",
+    "winner": "Darren",
+    "guesses": 3
+  }
+]
